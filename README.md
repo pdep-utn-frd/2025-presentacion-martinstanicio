@@ -15,3 +15,7 @@ Estoy cursando las siguientes materias:
 - Análisis de Sistemas de Información
 - Probabilidades y Estadisticas
 - Comunicación de Datos
+
+## Lenguajes más utilizados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinstanicio)
